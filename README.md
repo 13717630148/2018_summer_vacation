@@ -2,8 +2,10 @@
 A work and study schedule.
 ## 2018.7.27 Friday
 ### Plan：
-1.Read paper "Attention Is All You Need". Then read a blog about the paper and Keras code for attention mechanism.  
-2.Make a summary about attention mechanism and try to think up a new method to implement.  
-3.Discuss with Dr.Wu about Keras source code, some implementation details and some puzzles.  
-4.Code...  
+1. Read paper "Attention Is All You Need". Then read a blog about the paper and Keras code for attention mechanism. ***Partly Completed***. To be honest, this paper is a little dificult to read. So I don't fully understand.  
+2. Make a summary about attention mechanism and try to think up a new method to implement. ***Completed***. I think I can make use of different AM now.  
+3. Discuss with Dr.Wu about Keras source code, some implementation details and some puzzles. ***Partly Completed***. I know how to use input_shape, but MASK remains a puzzle.  
+4. Code... ***Completed***. I implement SelfAttention and AdditiveAttention layers with Keras.  
+
+
    
