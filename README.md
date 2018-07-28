@@ -8,9 +8,9 @@ A work and study schedule.
 4. Code... ***Completed***. I implement SelfAttention and AdditiveAttention layers with Keras.  
 ## 2018.7.28 Saturday
 ### Plan:
-1. Read paper "Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction". Try to understand how to embed features into NN.  
-2. Read the code about embedding on Github.  
-3. Discuss with Dr.Wu what to do next and ask about the progress of paper.  
-4. Try to understand Mask.  
+1. Read paper "Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction". Try to understand how to embed features into NN. ***Partly Completed***. 
+2. Read the code about embedding on Github.***Partly Completed***.
+3. Discuss with Dr.Wu what to do next and ask about the progress of paper. ***Not Completed***.
+4. Try to understand Mask. ***Partly Completed***.
 5. Code...  
    
