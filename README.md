@@ -13,4 +13,11 @@ A work and study schedule.
 3. Discuss with Dr.Wu what to do next and ask about the progress of paper. ***Not Completed***.
 4. Try to understand Mask. ***Partly Completed***.
 5. Code...  
+## 2018.7.29 Sunday
+### Plan:
+1. Read paper. Think about some ideas which can be used in Aspect-Etraction task.  
+2. Run some baselines.  
+3. Chat with Hammer about the competition and conference.  
+4. Code...  
+
    
