@@ -15,9 +15,14 @@ A work and study schedule.
 5. Code...  
 ## 2018.7.29 Sunday
 ### Plan:
-1. Read paper. Think about some ideas which can be used in Aspect-Etraction task.  
-2. Run some baselines.  
-3. Chat with Hammer about the competition and conference.  
+1. Read paper. Think about some ideas which can be used in Aspect-Etraction task.***Partly Completed***
+2. Run some baselines.***Not Completed***
+3. Chat with Hammer about the competition and conference.***Completed***. Maybe dm with nlp :).
+4. Code...***Partly Completed***
+## 2018.7.30 Monday
+### Plan:
+1. Read the book *Data Analysis with Python*. Deeply study Numpy, pandas, scipy and matplotlib...  
+2. Watch CS224N. Learn something about dependency parsing.  
+3. Learn more about Keras.  
 4. Code...  
-
    
