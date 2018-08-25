@@ -26,7 +26,7 @@ A work and study schedule.
 3. Learn more about Keras.  
 4. Code...  
 
-#OK, I'm back.
+# OK, I'm back.
 ## 2018.8.26 Sunday
 ### Plan:
 1. Read two papers about KBs with RNN. Try to understand how to embed global knowledge into NN.  
