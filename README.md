@@ -25,4 +25,13 @@ A work and study schedule.
 2. Watch CS224N. Learn something about dependency parsing.  
 3. Learn more about Keras.  
 4. Code...  
+
+#OK, I'm back.
+## 2018.8.26 Sunday
+### Plan:
+1. Read two papers about KBs with RNN. Try to understand how to embed global knowledge into NN.  
+2. Read papers in PPT.  
+3. Compare two tasks and make summary.  
+4. Choose one of them and implement it with Keras.  
+
    
