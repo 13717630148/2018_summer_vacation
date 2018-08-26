@@ -29,9 +29,17 @@ A work and study schedule.
 # OK, I'm back.
 ## 2018.8.26 Sunday
 ### Plan:
-1. Read two papers about KBs with RNN. Try to understand how to embed global knowledge into NN.  
-2. Read papers in PPT.  
-3. Compare two tasks and make summary.  
-4. Choose one of them and implement it with Keras.  
+1. Read two papers about KBs with RNN. Try to understand how to embed global knowledge into NN. ***Completed***. The models are easy to understand, but what puzzles me is that KBs embedding matrix. I don't know how to train it.
+2. Read papers in PPT.***Partly Completed***. SemEval 2014 and SemEval 2016.
+3. Compare two tasks and make summary.***Completed***. I think ABSA is easier.
+4. Choose one of them and implement it with Keras.***Not Completed***.
+
+## 2018.8.27 Monday
+### Plan:
+1. Finish reading papers in PPT and make summary.  
+2. Try to implement three models.  
+3. Process data of SemEval 2016.  
+4. Solve problems when coding with Keras.  
+
 
    
