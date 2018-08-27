@@ -36,10 +36,18 @@ A work and study schedule.
 
 ## 2018.8.27 Monday
 ### Plan:
-1. Finish reading papers in PPT and make summary.  
-2. Try to implement three models.  
-3. Process data of SemEval 2016.  
-4. Solve problems when coding with Keras.  
+1. Finish reading papers in PPT and make summary.***Completed***.
+2. Try to implement three models.***Partly Completed***. Implement two models, 8 and 11.
+3. Process data of SemEval 2016.***Not Completed***.
+4. Solve problems when coding with Keras.***Completed***.
+
+## 2018.8.28 Tuesday
+### Plan:
+1. Implement all models and tuning according to papers.  
+2. Make a table and compare the results.  
+3. Report results to Wu and discuss how to do next.  
+4. Think about KBs.  
+
 
 
    
