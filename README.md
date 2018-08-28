@@ -43,10 +43,17 @@ A work and study schedule.
 
 ## 2018.8.28 Tuesday
 ### Plan:
-1. Implement all models and tuning according to papers.  
-2. Make a table and compare the results.  
-3. Report results to Wu and discuss how to do next.  
-4. Think about KBs.  
+1. Implement all models and tuning according to papers.***Partly Completed***. 
+2. Make a table and compare the results.***Not Completed***.
+3. Report results to Wu and discuss how to do next.***Completed***.
+4. Think about KBs.***Not Completed***.
+
+## 2018.8.29 Wendesday
+### Plan:
+1. Learn to use ELMo.  
+2. Use ELMo to implement models and compare results.  
+3. Think about self-attention and implement self-attention model.  
+4. Read SemEval 2019.  
 
 
 
