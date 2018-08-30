@@ -48,12 +48,20 @@ A work and study schedule.
 3. Report results to Wu and discuss how to do next.***Completed***.
 4. Think about KBs.***Not Completed***.
 
-## 2018.8.29 Wendesday
+## 2018.8.30 Thursday
 ### Plan:
-1. Learn to use ELMo.  
-2. Use ELMo to implement models and compare results.  
-3. Think about self-attention and implement self-attention model.  
-4. Read SemEval 2019.  
+1. Learn to use ELMo.***Completed***.
+2. Use ELMo to implement models and compare results.***Completed***.
+3. Think about self-attention and implement self-attention model.***Completed***.
+4. Read SemEval 2019.***Not Completed***.
+
+## 2018.8.31 Friday
+### Plan:
+1. Think about some models and implement them.  
+2. Tune and compare results.  
+3. Tofel.  
+4. Matlab.  
+
 
 
 
